@@ -1,5 +1,3 @@
-### Hello there 👋
-
 ![](https://raw.githubusercontent.com/Schweinepriester/Schweinepriester/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)
 
 <!--
